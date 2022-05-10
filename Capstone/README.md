@@ -5,7 +5,7 @@
 
 'HaydenFrenchCapstone.ipynb' is the main Jupyter Notebook file where I import data from the API, my MySQL database, and my MongoDB database and export the dimension tables as .json files.
 
-'date.json', 'products.json', 'sales_reps.json', and 'transactions.json' are the aforementioned json files. These files will need to be uplaoded to Databricks.
+'date.json', 'products.json', 'sales_reps.json', and 'transactions.json' are the aforementioned json files. These files will need to be uploaded to Databricks.
 
 'Capstone.dbc', 'Capstone.sql', and 'Capstone.html' are all just different formats of my Databricks Notebook. The Notebook explains how to upload the json files to the Databricks FileStore. One uploaded the json files are cleaned and joined to create a fact table, which is then exported as a .csv file.
 
