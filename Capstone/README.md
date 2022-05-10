@@ -9,4 +9,4 @@
 
 'Capstone.dbc', 'Capstone.sql', and 'Capstone.html' are all just different formats of my Databricks Notebook. The Notebook explains how to upload the json files to the Databricks FileStore. One uploaded the json files are cleaned and joined to create a fact table, which is then exported as a .csv file.
 
-'export.csv' is the aforementioned csv file which is a fact table representing sales for my fictional company. 'export.csv' is the raw export, but the file 'visualizations.xlsx' included the same data along with some vizualizations and further analysis in an Excel Spreadsheet. All of the visualizations can also be viewed as pngs in the folder 'visualization_pngs'.
+'export.csv' is the aforementioned csv file which is a fact table representing sales for my fictional company. 'export.csv' is the raw export, but the file 'visualizations.xlsx' includes the same data along with some vizualizations and further analysis in an Excel Spreadsheet. All of the visualizations can also be viewed as pngs in the folder 'visualization_pngs'.
