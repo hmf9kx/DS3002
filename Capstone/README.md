@@ -1,7 +1,7 @@
 This folder contains all of my work for the DS3002 Capstone Project. In this readme I will explain how to navigate through the project/explain each file.
 
 
-'create_datawarehouse.sql' and 'product_inserts.sql' are the two SQL files in which I create the product and date dimensions and populate the corresponding tables.
+'create_datawarehouse.sql' and 'product_inserts.sql' are the two SQL files in which I create the product and date dimensions and populate the corresponding tables. 'sales_rep_data.csv' is the csv file in which I create the data for the fictional sales represenatatives at the company. This is the data that was uploaded to my MongoDB database.
 
 'HaydenFrenchCapstone.ipynb' is the main Jupyter Notebook file where I import data from the API, my MySQL database, and my MongoDB database and export the dimension tables as .json files.
 
