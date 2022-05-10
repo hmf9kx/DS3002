@@ -1,4 +1,4 @@
-This folder contains all of my work for the DS3002 Capstone Project. In this readme I will explain how to navigate through the project/explain each file.
+## This folder contains all of my work for the DS3002 Capstone Project. In this readme I will explain how to navigate through the project/explain each file.
 
 
 'create_datawarehouse.sql' and 'product_inserts.sql' are the two SQL files in which I create the product and date dimensions and populate the corresponding tables. 'sales_rep_data.csv' is the csv file which contains the data for the fictional sales represenatatives at the company. This is the data that was uploaded to my MongoDB database.
